@@ -1,2 +1,3 @@
-creating a new branck is quick&simple.
+creating a new branck is quick and simple.
+
 # gitskills
