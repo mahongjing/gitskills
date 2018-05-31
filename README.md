@@ -1,7 +1,4 @@
-now 'no-ff4'
-now 'ff3'
-now 'ff2'
-test 'ff' 
+test 'bug branch' 
 creating a new branck is quick and simple.
 
 # gitskills
